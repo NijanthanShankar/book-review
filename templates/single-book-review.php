@@ -1,6 +1,7 @@
 <?php
 /**
  * Template Name: Review Template
+ * Template for single page review.
  */
 
 get_header();
