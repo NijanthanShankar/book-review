@@ -1,7 +1,7 @@
 .book-reviews-grid {
     display: grid;
     gap: 30px;
-    margin: 30px 0;
+    margin: 30px 0px;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
 }
 
