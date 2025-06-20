@@ -1,4 +1,4 @@
-# Book Review
+# Book Reviews Manager
 
 === Book Reviews Manager ===
 Contributors: Nijanthan Shankar
